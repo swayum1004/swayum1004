@@ -4,26 +4,26 @@
 🔹 Java | Spring Boot | MERN | Machine Learning 
 🔹 Passionate about building scalable solutions  
 
-![header](https://github.com/Navneetg2003/assets/blob/main/85922fcb-1586-4072-8475-659df9601f43.png?raw=true)
+![header](https://github.com/swayum1004/assets/blob/main/85922fcb-1586-4072-8475-659df9601f43.png?raw=true)
 <div>
   <h1>
     <img src="about_me.gif" width="50px"><b> About Me </b>
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.nihalawasthi">
 </h1>
 </div>
-<img align="right" src="https://github.com/Navneetg2003/assets/blob/main/about_me.gif" width="120px">
+<img align="right" src="https://github.com/swayum1004/assets/blob/main/about_me.gif" width="120px">
 
 💡 **Backend Developer** | Java, Spring Boot, Node.js  
 💡 **Full-Stack Enthusiast** | React.js, MongoDB, MySQL  
 💡 **AI & ML Explorer**
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/navneetgupta/) | [Twitter](https://x.com/navgupta1302)  
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/swayum-hastwala/) 
 
 ---
 
 ## 🏆 GitHub Achievements  
 <div align="center">  
-  <img src="https://github-trophy.vercel.app/?username=Navneetg2003&margin-w=10&theme=radical">
+  <img src="https://github-trophy.vercel.app/?username=swayum1004&margin-w=10&theme=radical">
 </div>  
 
 ---
@@ -74,9 +74,9 @@
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navneetg2003&show_icons=true&theme=radical&hide=issues">
+  <img src="https://github-readme-stats.vercel.app/api?username=swayum1004&show_icons=true&theme=radical&hide=issues">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navneetg2003&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayum1004&theme=radical">
 </div>  
 
 ---
