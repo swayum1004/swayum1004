@@ -4,8 +4,6 @@
 🔹 Java | Spring Boot | MERN | Machine Learning | Generative AI  
 🔹 Turning ideas into intelligent, scalable products
 
-![header](https://github.com/swayum1004/assets/blob/main/85922fcb-1586-4072-8475-659df9601f43.png?raw=true)
-
 <div>
   <h1>
     <img src="about_me.gif" width="50px"><b> About Me </b>
