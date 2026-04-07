@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F78C3E&background=FFD49D00&width=435&lines=+नमस्ते%2C+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ### 🚀 ***Swayum Hastwala | Software Developer***
-🔹 Java | Python | MERN | Machine Learning | Generative AI  
+🔹 C++ | Python | Java | MERN | Machine Learning | Generative AI  
 🔹 Turning ideas into intelligent, scalable products
 
 <div>
